@@ -1,0 +1,36 @@
+5 8 3 8 5
+room1 room2 lab1 lab2 lab3
+purohit ashu avita dubey mahesh pdpteam richa shubhi
+btechcsA 6 3
+network 3 0
+automata 4 1
+os 4 2
+dbms 3 3
+java 4 4
+career 2 5
+0
+ntwlab 3 6 2
+dbmslab 3 7 3
+javalab 3 4 3
+btechcsB 6 3
+network 3 0
+automata 4 1
+os 4 2
+dbms 3 3
+java 4 4
+career 2 5
+1
+ntwlab 3 6 3
+dbmslab 3 7 3
+javalab 3 4 3
+btechIT 6 3
+network 3 0
+automata 4 1
+os 4 2
+dbms 3 3
+java 4 4
+career 2 5
+0
+ntwlab 3 6 3
+dbmslab 3 7 2
+javalab 3 4 2
